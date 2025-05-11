@@ -1,0 +1,167 @@
+/*#myLabel{
+    text-align: center;
+    display: block;
+    font-size: 7em;
+    font-family: Helvetica;
+    padding:5px;
+}
+.label1{
+    background-color: darkslateblue;
+}
+#ButtonContainer{
+    text-align: center;
+    display: block;
+    padding:15px;
+}
+.myButtons{
+    padding:10px;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+}*/
+/*#myButton{
+    border-radius: 3px;
+    padding:10px;
+    font-size: 20px;
+    font-family: Verdana;
+}
+body{
+    text-align: center;
+    display:block;
+    
+}*/
+
+/*Temperature Converter
+body{
+    background-color:darkgrey;
+    text-align:center;
+}
+form{
+    background-color:rgb(15, 166, 212);
+    margin-left:150px;
+    max-width:350px;
+    text-align:center;
+    height:300px;
+}
+#mySubmit{
+    padding:5px;
+    font-size: medium;
+    font-family:Tahoma;
+    border:2px;
+    border-style:solid;
+    background-color:rgb(238, 15, 45);
+    border-radius:5px;
+    margin:10px;
+}
+#TextBox{
+    border:5px;
+    border-radius: 3px;
+    padding:10px;
+    margin:10px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+}
+#myRadio1{
+    margin:10px;
+}
+#myRadio2{
+   margin:10px;
+}
+#p1{
+    font-family: Segoe UI;
+    color:black;
+}
+#mySubmit :hover{
+    background-color:rgb(185, 48, 55);
+}*/
+ /*Dice Roller
+#mydiv{
+    text-align: center;
+    background-color: aquamarine;
+    max-width: 350px;
+    height:200px;
+    padding:30px;
+    margin-left:100px;
+}
+#myButton{
+    border-radius: 5px;
+    border:none;
+    padding:10px;
+    cursor:pointer;
+    color:rgb(25, 100, 155); 
+}
+h2{
+    color:rgb(170, 55, 145);
+    text-align:center;
+    
+}
+label{
+   color:rgb(170, 55, 145);
+   padding-right:10px;
+   font-weight: bold;
+}
+#myTextbox{
+    border-color:rgb(170, 55, 145);
+    text-align:center;
+    padding:5px;
+    font-family:'Lucida Sans';
+}
+#Result1{
+    padding:10px;
+    color:rgb(170, 55, 145);
+}
+#Result2 img{
+    width: 35px;
+    margin:5px;
+}*/
+/* Clock
+body{
+    background-image: url("images/india-gate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#clock-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+#clock{
+    color:black;
+    font-size:6rem;
+    text-align:center;
+    backdrop-filter: blur(3px);
+   
+}*/
+/* stopwatch
+body{
+    background-color: rgb(152, 209, 171);
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+#myheading{
+    color:rgb(85, 28, 107)
+}
+#container{
+    border-style:solid;
+    border-radius: 15px;
+    border-color:rgb(85, 28, 107);
+    padding-left:20px;
+    padding-bottom:20px;
+    padding-right:20px;
+    text-align: center;
+    color:rgb(85, 28, 107);
+}
+.mybtn{
+    padding:5px;
+    color:rgb(85, 28, 107);
+    background-color: rgb(152, 209, 171);
+    border-radius: 3px;
+    border-color:rgb(85, 28, 107);
+    transition: background-color 1s ease;
+
+}*/

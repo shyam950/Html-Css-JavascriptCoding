@@ -1,0 +1,8 @@
+//console.log("Hi");
+//window.prompt("enter name")
+//window.alert("alert message")
+/*random generator = Math.floor( Math.random()*(max-min) + min)
+document.getElementById("p1").textContent = "Hi"
+document.getElementById("button").onclick = function(){
+    document.getElementById("p1").textContent = a + b
+}
